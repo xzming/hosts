@@ -2,7 +2,7 @@
 
 [doodle]: http://www.g20.org/images/logo.png "undefined"
 [doodle-story]: http://www.g20.org/
-
+**学习怎么使用中**
 **使用本项目之前，请先阅读此 [README](README.md) 及下方的许可协议**
 
 **请务必注意,如果正确修改hosts后还是无法使用Google,在求助前请首先尝试通过https进行访问，如[https://www.google.com/](https://www.google.com/)**
